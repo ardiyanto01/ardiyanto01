@@ -1,1 +1,4 @@
- Currently learning QA Engineer, Having knowledge to create web / mobile automation record and play using Katalon Studio. Create Test Scenario And Execute Test Scenario, Create Automation based on Test Scenario and Execute Test Automation, Exploratory testing using Xray Exploratory Testing, API Testing using Postman, And having knowledge about Project Management Tools such a Jira.
+ hallo my name Ardi I am junior Quality assurance in the industry I have the ability to design test scenarios and 
+create test cases and create bug reports using catalons and script automation code using cypress and create strees test 
+and load test using jmeters, work with the team using jira attlasians, test the API using postman and record the web using 
+selenium ide.
